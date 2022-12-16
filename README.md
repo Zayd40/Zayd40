@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Zayd40
 - 👀 I’m interested in anything to do with tech
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on idk
+- 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me zaydabbas40@gmail.com
 
 <!---
